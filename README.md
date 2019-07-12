@@ -5,6 +5,13 @@ Generic configuration with major tools to run PHP5.6 setup
 
 ## Usage
 
+You can pull the image from Docker Hub: 
+
+```bash
+docker pull anvyst/web-php5.6
+```
+
+
 Quick memo on the docker run:
 
 ```bash
